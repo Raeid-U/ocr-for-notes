@@ -13,13 +13,15 @@ ocr script for my handwritten notes
 
 ---
 
-To Run:
+To run env:
 
 ```bash
 source myenv/bin/activate
+
+python3 script.py
 ```
 
-To exit:
+To exit env:
 
 ```bash
 deactivate
