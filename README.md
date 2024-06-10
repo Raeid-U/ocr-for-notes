@@ -13,6 +13,20 @@ ocr script for my handwritten notes
 
 ---
 
+To Run:
+
+```bash
+source myenv/bin/activate
+```
+
+To exit:
+
+```bash
+deactivate
+```
+
+---
+
 # extra
 
 shoutout to Muzz and Amarzbar for ideas
