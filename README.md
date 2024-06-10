@@ -18,7 +18,7 @@ To run env:
 ```bash
 source myenv/bin/activate
 
-python3 script.py
+python3 ocr-[version].py
 ```
 
 To exit env:
